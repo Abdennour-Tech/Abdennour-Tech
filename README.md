@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-I am a dedicated *Full-Stack Developer* focused on building scalable, efficient web applications. I specialize in backend development with *Laravel* and *Symfony, and modern frontend development with **React. I have a strong foundation in database management (SQL & NoSQL) and systems programming with **C++. I am also expanding my skills in **DevOps* and *Python* automation.
+I am a dedicated **Full-Stack Developer** focused on building scalable, efficient web applications. I specialize in backend development with **Laravel** and **Symfony**, and modern frontend development with **React**. I have a strong foundation in database management (SQL & NoSQL) and systems programming with **C++**. I am also expanding my skills in **DevOps** and **Python** automation.
 
 ---
 
@@ -16,7 +16,8 @@ I am a dedicated *Full-Stack Developer* focused on building scalable, efficient 
 <p align="left">
 <a href="https://www.linkedin.com/in/badreddine-abdennour-2844652a5" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"></a>
-<a href="mailto:baderabdennour123@gmail.com">
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=baderabdennour123@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35"></a>
 </p>
 
@@ -46,9 +47,9 @@ I am a dedicated *Full-Stack Developer* focused on building scalable, efficient 
 ---
 
 ### 📜 Certifications
-* 🏆 **[JavaScript, jQuery, and JSON](https://www.coursera.org/account/accomplishments/verify/9XG7B8L4Z2MR)** – University of Michigan (Dec 2025)
-* 🏆 **[Python Essentials 1](https://www.credly.com/badges/python-essentials-1)** – Cisco Networking Academy (March 2026)
-* 🏆 **[JavaScript Essentials 1](https://www.credly.com/badges/javascript-essentials-1)** – Cisco Networking Academy (March 2026)
+* 🏆 **JavaScript, jQuery, and JSON** – University of Michigan (Dec 2025)  
+* 🏆 **Python Essentials 1** – Cisco Networking Academy (March 2026)  
+* 🏆 **JavaScript Essentials 1** – Cisco Networking Academy (March 2026)
 
 ---
 
@@ -59,4 +60,12 @@ I am a dedicated *Full-Stack Developer* focused on building scalable, efficient 
 </p>
 
 ---
+
+### 🧠 Currently Learning
+- DevOps (Docker, CI/CD)
+- Advanced Backend Architecture
+- System Design
+
+---
+
 <p align="center"><i>Learning everyday, building always.</i></p>
