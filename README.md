@@ -13,10 +13,11 @@ I am a dedicated *Full-Stack Developer* focused on building scalable, efficient 
 
 ---
 
-### 🌐 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/badreddine-abdennour-2844652a5)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baderabdennour123@gmail.com)
+### 🌐 Socials:
+<p align="left">
+<a href="http://linkedin.com/in/badreddine-abdennour-2844652a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badreddine-abdennour" height="30" width="40" /></a>
+<a href="mailto:baderabdennour123@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="baderabdennour123" height="30" width="40" /></a>
+</p>
 
 ---
 
@@ -63,12 +64,12 @@ I am a dedicated *Full-Stack Developer* focused on building scalable, efficient 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badreddine0535&show_icons=true&locale=en&theme=radical" alt="Badreddine's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badreddine0535&layout=compact&theme=radical&hide=html,css" alt="Badreddine's top languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdennour-Tech&show_icons=true&locale=en&theme=radical" alt="Badreddine's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdennour-Tech&layout=compact&theme=radical&hide=html,css" alt="Badreddine's top languages" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badreddine0535&theme=radical" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdennour-Tech&theme=radical" alt="GitHub Streak" height="150"/>
 </p>
 
 ---
