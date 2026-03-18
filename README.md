@@ -15,8 +15,8 @@ I am a dedicated *Full-Stack Developer* focused on building scalable, efficient 
 
 ### 🌐 Socials:
 <p align="left">
-<a href="http://linkedin.com/in/badreddine-abdennour-2844652a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="badreddine-abdennour" height="30" width="40" /></a>
-<a href="mailto:baderabdennour123@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="baderabdennour123" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/badreddine-abdennour-2844652a5" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="badreddine-abdennour" height="35" /></a>
+<a href="mailto:baderabdennour123@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="baderabdennour123" height="35" /></a>
 </p>
 
 ---
@@ -58,6 +58,26 @@ I am a dedicated *Full-Stack Developer* focused on building scalable, efficient 
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="35"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" height="35"/>
 </p>
+
+---
+
+### 📜 Certifications
+
+<p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/verify/L3KUQY2BVD6N" target="_blank">
+    <img src="https://img.shields.io/badge/University_of_Michigan-JavaScript_jQuery_JSON-00274C?style=flat-square&logo=universityofmichigan&logoColor=white" alt="JavaScript jQuery JSON" height="25"/>
+  </a>
+  <a href="https://www.credly.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Cisco-Python_Essentials_1-blue?style=flat-square&logo=cisco&logoColor=white" alt="Python Essentials 1" height="25"/>
+  </a>
+  <a href="https://www.credly.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Cisco-JavaScript_Essentials_1-yellow?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Essentials 1" height="25"/>
+  </a>
+</p>
+
+* 🏆 *JavaScript, jQuery, and JSON* – University of Michigan (Dec 2025) [ID: L3KUQY2BVD6N]
+* 🏆 *Python Essentials 1* – Cisco Networking Academy (March 2024)
+* 🏆 *JavaScript Essentials 1* – Cisco Networking Academy (March 2024)
 
 ---
 
