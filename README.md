@@ -56,9 +56,6 @@ I also have strong knowledge in software design and modeling using UML (Use Case
   <img src="https://img.shields.io/badge/REST%20API-FF6F61?style=for-the-badge&logo=none&logoColor=ffffff" height="35"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff" height="35"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" height="35"/> 
-  <img src="https://img.shields.io/badge/Board_Infinity-Full--Stack_Laravel_&_PHP-0078D4?style=for-the-badge&logo=laravel&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/HKUST-Software_Engineering_&_Design-003366?style=for-the-badge&logo=worldhealthorganization&logoColor=white" height="35"/>
-  <img src="https://img.shields.io/badge/EPFL-C++_Object--Oriented_Programming-FF0000?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35"/>
 </p>
 
 
@@ -67,6 +64,9 @@ I also have strong knowledge in software design and modeling using UML (Use Case
   <img src="https://img.shields.io/badge/Cisco-JavaScript_Essentials_1-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35">
   <img src="https://img.shields.io/badge/Cisco-Python_Essentials_1-005571?style=for-the-badge&logo=cisco&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/Michigan-JS_jQuery_JSON-00274C?style=for-the-badge&logo=universityofmichigan&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/Board_Infinity-Full--Stack_Laravel_&_PHP-0078D4?style=for-the-badge&logo=laravel&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/HKUST-Software_Engineering_&_Design-003366?style=for-the-badge&logo=worldhealthorganization&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/EPFL-C++_Object--Oriented_Programming-FF0000?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35"/>
 </p>
 
 
